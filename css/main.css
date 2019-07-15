@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  border: 0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+body {
+  align-content: center;
+  align-items: center;
+  background: #333;
+  display: flex;
+  margin: 0;
+}
+
+canvas {
+  image-rendering: pixelated;
+  /*height: 99.5vh;*/
+  margin: 30px auto;
+  background: #000;
+  border: 1px solid #dedede;
+}
